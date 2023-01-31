@@ -1,0 +1,17 @@
+{
+  "name": "watchdog",
+  "version": "1.0.0",
+  "description": "Watchdog is a tool to monitor your computer or server at realtime.",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "watchdog-package",
+    "watchdog-server",
+    "watchdog-client"
+  ],
+  "author": {
+    "name": "Adegoke Temitope",
+    "email": "adegoketemitope1909@gmail.com",
+    "url": "https://temitope.dev"
+  }
+}

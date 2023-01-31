@@ -1,0 +1,26 @@
+{
+  "name": "watchdog-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A middleware server for the watchdog app",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4",
+    "socket.io-client": "^4.5.4"
+  },
+  "author": {
+    "name": "Adegoke Temitope",
+    "email": "adegoketemitope1909@gmail.com",
+    "url": "https://temitope.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devdre1909/watchdog/watchdog-server.git"
+  },
+  "homepage": "https://github.com/devdre1909/watchdog/watchdog-server",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
